@@ -1,4 +1,4 @@
-[![liu-kan's github stats](https://github-readme-stats.vercel.app/api?username=liu-kan&show_icons=true)](https://github.com/liu-kan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liu-kan&layout=compact&hide=prolog,jupyter%20notebook)](https://github.com/liu-kan)
+[![liu-kan's github stats](https://github-readme-stats.vercel.app/api?username=liu-kan&show_icons=true&count_private=true)](https://github.com/liu-kan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liu-kan&langs_count=6&layout=compact&hide=prolog,jupyter%20notebook)](https://github.com/liu-kan)
 
 <!--
 ### Hi there 👋
