@@ -1,4 +1,4 @@
-<div style="white-space: nowrap;"><img height="200px" max-width="49%" src="https://github-readme-stats.vercel.app/api?username=liu-kan&show_icons=true&count_private=true"/> <img height="200px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-kan&langs_count=6&layout=compact&hide=prolog,jupyter%20notebook"/></div>
+<div style="white-space: nowrap;"><img height="170px" max-width="49%" src="https://github-readme-stats.vercel.app/api?username=liu-kan&show_icons=true&count_private=true"/> <img height="170px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-kan&langs_count=6&layout=compact&hide=prolog,jupyter%20notebook"/></div>
 
 <!--
 ### Hi there 👋
