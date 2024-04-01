@@ -1,8 +1,8 @@
-<div style="white-space: nowrap;"><img max-width="97%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-kan&langs_count=8&layout=compact&hide=prolog,jupyter%20notebook"/></div>
+
 
 <!--
 ### Hi there 👋
-
+<div style="white-space: nowrap;"><img max-width="97%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-kan&langs_count=8&layout=compact&hide=prolog,jupyter%20notebook"/></div>
 <img height="166px" max-width="52%" src="https://github-readme-stats.vercel.app/api?username=liu-kan&show_icons=true&count_private=true"/> 
 
 **liu-kan/liu-kan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
